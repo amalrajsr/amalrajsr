@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalrajsr&label=Profile%20views&color=0e75b6&style=flat" alt="amalrajsr" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,nodejs,React,Mongodb,Typescript**
+- 🌱 **Full Stack Developer**
 
-- 💬 Ask me about **Javascript, Node.js, Mongodb, ReactJs, Typescript, Tailwind, ExpressJS**
+- 💬 Ask me about **Javascript, Node.js, Mongodb, ReactJs, Typescript,ExpressJ**
 
 - 📫 How to reach me **sramalraj123@gmail.com**
 
