@@ -8,7 +8,7 @@
 
 - 🌱 **Full Stack Developer**
 
-- 💬 Ask me about **Javascript, Node.js, Mongodb, ReactJs, Typescript,ExpressJS**
+- 💬 Ask me about **Javascript,Node.js,MongoDB,React.js,Typescript,Express.js**
 
 - 📫 How to reach me **sramalraj123@gmail.com**
 
